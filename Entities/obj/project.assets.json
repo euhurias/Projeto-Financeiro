@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\euhurias\\euhurias\\Projeto-Financeiro\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\euhurias\\euhurias\\Projeto-Financeiro\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\euhurias\\euhurias\\Projeto-Financeiro\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
