@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\Source\\Repos\\euhurias\\Projeto-Financeiro\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
