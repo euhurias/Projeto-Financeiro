@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\Financeiro_2023\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Infra\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\Users\\ferna\\source\\repos\\Financeiro_2023\\Infra\\Infra.csproj",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Infra\\Infra.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\source\\repos\\Financeiro_2023\\Infra\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Financeiro_2023\\Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
